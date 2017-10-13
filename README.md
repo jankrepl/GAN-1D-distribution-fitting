@@ -22,7 +22,7 @@ mapping than inverse cdf.
 
 
 ## Visualizations
-Evolution of G approximator, G density (histogram) and decision boundary where the true distribution is N(0,1)
+Evolution of G approximator, density (histogram) and decision boundary where the true distribution is N(0,1)
 * G (approximation of inverse cdf of standard normal)
 
 ![alt text](https://github.com/jankrepl/GAN-1D-distribution-fitting/blob/master/pics/G.gif "G")
